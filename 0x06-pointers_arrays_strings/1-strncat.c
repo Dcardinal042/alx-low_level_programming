@@ -1,15 +1,5 @@
 #include "main.h"
 /**
- * _strncat - concatenate two strings
- * using at most n bytes from src
- * @dest: input value
- * @src: input value
- * @n: input value
- *
- * Return: dest
- */
-char *_strncat(cha#include "main.h"
-/**
  * _strncat - concatenates two strings.
  * @dest: destination.
  * @src: source.
