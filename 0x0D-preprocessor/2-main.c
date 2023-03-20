@@ -6,7 +6,6 @@
  *
  * Return: nothing to be returned
  */
-
 int main(void)
 {
 	printf("%s\n",__FILE__);
